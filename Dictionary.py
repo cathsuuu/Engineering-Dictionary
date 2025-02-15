@@ -1,0 +1,36 @@
+ENGINEERING_TERMS = {
+    "BEAM": "It is part of the structure that support the load.",
+    "LOAD": "The weight or force that a structure or machine must support",
+    "CIRCUIT": "A complete path that allows electric current to flow",
+    "TORQUE": "A force that causes rotation, like turning a wrench.",
+    "CONCRETE": "A material made of cement, sand, and gravel, used in construction.",
+    "COMPASS": "A tool for drawing circles or arcs.",
+    "PROTRACTOR": "A tool for measuring and drawing angles.",
+    "FRENCH CURVE": "A template for drawing smooth curves.",
+    "T-SQUARE": "A ruler with a perpendicular head, used for drawing straight lines and right angles.",
+    "SCALE RULER": "A ruler with different measurement scales, used in drafting",
+    "CAPACITANCE": "The amount of stored electrical potential in a capacitor",
+    "CAD": "Used to create and optimized design.",
+    "ACCURACY": "The exact/closeness measurement of a one value.",
+    "ACCELERATION": "The rate of an onject on how its velocity changes over time",
+    "AMPERE": "SI base unit of electric current",
+    "CONDUCTOR": "It contains movable electric charges",
+    "AGGREGATE": "These are the sands, and small stones that used in road construction",
+    "FOUNDATION": "The base of a structure that make it stable",
+    "DRAINAGE": "It removes water to an specific area to avoid flooding",
+    "SURVEYING": "Measures the land before construction",
+    "REINFORCEMENT": "It is a steel bars in a concrete to make more stronger",
+    "COLUMN": "A vertical support in a construction",
+    "CURING": "It helps the concrete to stay moist to make it stronger",
+    "BEARING": "A device that allows movement in a structure",
+    "FOOTING": "It is the lower part of the foundation",
+    "MASONRY": "A building that with brick and stones",
+    "SHEAR WALL": "It allows to resist the side forces",
+    "PILE": "A deep foundation post driven into the ground",
+    "GROUT": "A fluid that fill the gaps in construction",
+    "CULVERT": "A tunnel for water flow",
+    
+    
+}
+a = input("Say: ")
+print(ENGINEERING_TERMS[a])
